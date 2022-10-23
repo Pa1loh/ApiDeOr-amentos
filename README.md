@@ -9,6 +9,8 @@
 
 :small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
 
+:small_blue_diamond: [Próximos passos](#próximos-passos)
+
 :small_blue_diamond: [Desenvolvimento e Aprendizado](#descrição-do-projeto)
 
 :small_blue_diamond: [Funcionalidades](#funcionalidades)
@@ -29,6 +31,19 @@ O objetivo deste software é resolver o problema de Engenheiros de qualquer áre
 
 Para consumir essa api será desenvolvido um front-end em React e logo seu repositório estará
 </p>
+
+## Próximos passos
+
+- Documentação e Implementação de cada camada da API (MODELS, REPOSITORY, SERVICE, CONTROLLER)
+- Certificação das Normas do Projeto (Clean Code, Rest, DDD)
+- Cobrir 100% da Aplicação com testes
+- Lançar a V1
+- Implementação do Git Flow com brenchs, commits e Tasks
+- Implementar o TDD
+- Verificar Possiveis novas funcionalidades
+- fazer a integração com um front-end
+
+
 
 ## Desenvolvimento e Aprendizado
 

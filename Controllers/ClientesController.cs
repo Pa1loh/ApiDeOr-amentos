@@ -42,7 +42,7 @@ namespace ApiDeOrcamento.Controllers
             cliente.Endereco = await _context.Endereco.FindAsync(cliente.Id);
             return cliente;
         }
-
+    
         // PUT: api/Clientes/5
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPut("{id}")]
